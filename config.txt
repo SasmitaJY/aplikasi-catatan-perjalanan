@@ -1,0 +1,4 @@
+NIK|NAMA LENGKAP
+
+123|Bayu
+123456|jamet
